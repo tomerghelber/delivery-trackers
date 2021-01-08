@@ -14,6 +14,14 @@ setup(
     description="Library to track deliveries.",
     long_description=open("README.md").read(),
     classifiers = [
+        "Development Status :: 2 - Pre-Alpha",
         "OSI Approved :: GNU General Public License v3 (GPLv3)",
+        "Operating System :: OS Independent",
+        "Programming Language :: Python :: 3",
+        "Topic :: Home Automation",
+        "Topic :: Internet :: WWW/HTTP",
+        "Topic :: Software Development :: Libraries",
+        "Topic :: Utilities",
+        "Typing :: Typed",
     ]
 )
